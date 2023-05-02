@@ -1,0 +1,15 @@
+.App{
+  display:flex;
+  text-align: center;
+  justify-content: center;
+  
+  height:100vh;
+
+}
+
+.App{
+  margin-top: 200px;
+}
+.bg{
+  color:red
+}
